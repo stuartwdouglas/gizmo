@@ -1,6 +1,8 @@
 # Gizmo
 
 A bytecode generation library...
+
+![](https://github.com/quarkus/gizmo/workflows/Gizmo%20CI/badge.svg)
  
 ## Build
 
